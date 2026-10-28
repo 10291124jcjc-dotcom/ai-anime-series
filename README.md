@@ -2,11 +2,9 @@
 
 [中文](#中文) · [English](#english)
 
-![汤圆和油条 第 1 集《抢煎饼》](assets/preview.gif)
+https://github.com/user-attachments/assets/3e79e4f6-5893-4660-870c-5d18d0f3dc05
 
-
-
-完整 30 秒：[`assets/demo.mp4`](assets/demo.mp4)（即梦 Seedance 2.5 一次生成，480p）
+汤圆和油条 第 1 集《抢煎饼》，30 秒，即梦 Seedance 2.5 一次生成（480p）。视频文件：[`assets/demo.mp4`](assets/demo.mp4)
 
 ---
 
